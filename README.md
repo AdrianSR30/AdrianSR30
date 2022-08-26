@@ -7,6 +7,8 @@ Amante de los gatos y perros
 
 ![](https://images.cooltext.com/5616734.gif)
 
+Estudiando la carrera de Ing. en Sistemas Computacionales
+
 HORARIO OWO!!!
 
 | hora |    Dia    |        Materia       |
