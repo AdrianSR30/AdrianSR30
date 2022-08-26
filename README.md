@@ -1,16 +1,17 @@
-### Hi there 👋
+![](https://images.cooltext.com/5616732.png)
 
-<!--
-**AdrianSR30/AdrianSR30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenidos a mi perfil :D
 
-Here are some ideas to get you started:
+Preparandome para ser Programador
+Amante de los gatos y perros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://images.cooltext.com/5616734.gif)
+
+HORARIO OWO!!!
+
+| hora |    Dia    |        Materia       |
+|:----:|:---------:|:--------------------:|
+|  4pm |   Lunes   | Lenguaje de Interfaz |
+|  4pm |   Martes  | Lenguaje de Interfaz |
+|  4pm | Miercoles | Lenguaje de Interfaz |
+| 4pm  |   Jueves  | Lenguaje de Interfaz |
