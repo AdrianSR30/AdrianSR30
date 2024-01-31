@@ -13,7 +13,8 @@ HORARIO OWO!!!
 
 | hora |    Dia    |        Materia       |
 |:----:|:---------:|:--------------------:|
-|  4pm |   Lunes   | Lenguaje de Interfaz |
-|  4pm |   Martes  | Lenguaje de Interfaz |
-|  4pm | Miercoles | Lenguaje de Interfaz |
-| 4pm  |   Jueves  | Lenguaje de Interfaz |
+|  4pm |   Lunes   | Patrones de Diseño de Software |
+|  4pm |   Martes  | Patrones de Diseño de Software |
+|  4pm | Miercoles | Patrones de Diseño de Software |
+| 4pm  |   Jueves  | Patrones de Diseño de Software |
+| 4pm  |   Viernes  | Patrones de Diseño de Software |
