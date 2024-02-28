@@ -9,7 +9,7 @@ Amante de los gatos y perros
 
 Estudiando la carrera de Ing. en Sistemas Computacionales
 
-HORARIO OWO!!!
+HORARIO!!!
 
 | hora |    Dia    |        Materia       |
 |:----:|:---------:|:--------------------:|
